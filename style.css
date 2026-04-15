@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  line-height: 1.6;
+}
+
+/* HERO */
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: #111827;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero p {
+  color: #94a3b8;
+}
+
+/* NAV */
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+nav a:hover {
+  opacity: 1;
+}
+
+/* SECTIONS */
+.section {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+/* PROJECT CARDS */
+.card {
+  background: #1f2937;
+  padding: 20px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 40px;
+  color: #64748b;
+}
